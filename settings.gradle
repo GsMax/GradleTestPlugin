@@ -1,0 +1,5 @@
+rootProject.name = 'GradlePlugin'
+include 'Listener'
+include 'Tests'
+include 'Plugin'
+

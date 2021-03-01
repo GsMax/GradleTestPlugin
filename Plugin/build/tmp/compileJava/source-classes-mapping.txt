@@ -1,0 +1,2 @@
+io/plugin/MyTestPlugin.java
+ io.plugin.MyTestPlugin
